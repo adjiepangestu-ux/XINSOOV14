@@ -73,12 +73,12 @@
       }
     },
     {
-      "ts": "2025-12-27T11:36:36.246Z",
+      "ts": "2025-12-27T11:37:32.550Z",
       "actorId": 6241251242,
       "actorRole": "TK",
-      "action": "TOKEN_ADD",
+      "action": "RESS_ADD",
       "detail": {
-        "value": "844***RNg"
+        "value": 7667145353
       }
     }
   ]

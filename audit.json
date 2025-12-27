@@ -28,12 +28,12 @@
       }
     },
     {
-      "ts": "2025-12-27T06:57:58.591Z",
+      "ts": "2025-12-27T06:59:00.036Z",
       "actorId": 8175022256,
       "actorRole": "DEVELOPER",
-      "action": "VVIP_ADD",
+      "action": "TOKEN_DEL",
       "detail": {
-        "value": 5
+        "value": "1"
       }
     }
   ]

@@ -98,6 +98,15 @@
       "detail": {
         "value": "763***NX0"
       }
+    },
+    {
+      "ts": "2025-12-27T13:33:55.819Z",
+      "actorId": 7965552384,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "835***NoU"
+      }
     }
   ]
 }

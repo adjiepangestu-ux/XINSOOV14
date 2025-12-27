@@ -107,6 +107,15 @@
       "detail": {
         "value": "835***NoU"
       }
+    },
+    {
+      "ts": "2025-12-27T21:39:57.164Z",
+      "actorId": 7917791920,
+      "actorRole": "TK",
+      "action": "RESS_ADD",
+      "detail": {
+        "value": 5513415557
+      }
     }
   ]
 }

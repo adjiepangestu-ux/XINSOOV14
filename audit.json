@@ -46,12 +46,12 @@
       }
     },
     {
-      "ts": "2025-12-27T09:12:11.720Z",
-      "actorId": 7931956343,
-      "actorRole": "DEVELOPER",
-      "action": "TK_ADD",
+      "ts": "2025-12-27T09:12:14.434Z",
+      "actorId": 6241251242,
+      "actorRole": "TK",
+      "action": "TOKEN_ADD",
       "detail": {
-        "value": 6241251242
+        "value": "858***sx4"
       }
     }
   ]

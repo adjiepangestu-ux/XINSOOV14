@@ -28,12 +28,12 @@
       }
     },
     {
-      "ts": "2025-12-27T06:59:41.429Z",
+      "ts": "2025-12-27T06:59:54.930Z",
       "actorId": 8175022256,
       "actorRole": "DEVELOPER",
-      "action": "OWNER_DEL",
+      "action": "PT_DEL",
       "detail": {
-        "value": 8175022256
+        "value": 7
       }
     }
   ]

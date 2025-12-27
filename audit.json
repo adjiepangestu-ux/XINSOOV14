@@ -1,0 +1,13 @@
+{
+  "logs": [
+    {
+      "ts": "2025-12-27T06:33:04.573Z",
+      "actorId": 8175022256,
+      "actorRole": "DEVELOPER",
+      "action": "TOKEN_DEL",
+      "detail": {
+        "value": "832***79s"
+      }
+    }
+  ]
+}

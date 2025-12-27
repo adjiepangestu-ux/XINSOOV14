@@ -44,6 +44,15 @@
       "detail": {
         "value": 1
       }
+    },
+    {
+      "ts": "2025-12-27T09:12:11.720Z",
+      "actorId": 7931956343,
+      "actorRole": "DEVELOPER",
+      "action": "TK_ADD",
+      "detail": {
+        "value": 6241251242
+      }
     }
   ]
 }

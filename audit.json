@@ -80,6 +80,15 @@
       "detail": {
         "value": 7667145353
       }
+    },
+    {
+      "ts": "2025-12-27T12:09:03.288Z",
+      "actorId": 7931956343,
+      "actorRole": "DEVELOPER",
+      "action": "PT_ADD",
+      "detail": {
+        "value": 7667145353
+      }
     }
   ]
 }

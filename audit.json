@@ -100,9 +100,9 @@
       }
     },
     {
-      "ts": "2025-12-27T13:33:55.819Z",
-      "actorId": 7965552384,
-      "actorRole": "PT",
+      "ts": "2025-12-27T13:34:32.887Z",
+      "actorId": 7917791920,
+      "actorRole": "TK",
       "action": "TOKEN_ADD",
       "detail": {
         "value": "835***NoU"

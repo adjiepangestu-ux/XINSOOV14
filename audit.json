@@ -28,12 +28,12 @@
       }
     },
     {
-      "ts": "2025-12-27T06:59:59.745Z",
+      "ts": "2025-12-27T07:00:18.554Z",
       "actorId": 8175022256,
       "actorRole": "DEVELOPER",
-      "action": "PT_DEL",
+      "action": "VVIP_DEL",
       "detail": {
-        "value": 23
+        "value": 5
       }
     }
   ]

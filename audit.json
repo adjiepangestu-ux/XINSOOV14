@@ -55,12 +55,12 @@
       }
     },
     {
-      "ts": "2025-12-27T11:05:46.151Z",
+      "ts": "2025-12-27T11:06:01.633Z",
       "actorId": 7931956343,
       "actorRole": "DEVELOPER",
-      "action": "VVIP_ADD",
+      "action": "RESS_ADD",
       "detail": {
-        "value": 8171226603
+        "value": 7168496020
       }
     }
   ]

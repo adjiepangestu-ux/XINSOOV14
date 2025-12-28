@@ -145,12 +145,12 @@
       }
     },
     {
-      "ts": "2025-12-28T10:37:51.236Z",
-      "actorId": 7917791920,
-      "actorRole": "TK",
-      "action": "VVIP_ADD",
+      "ts": "2025-12-28T10:38:00.438Z",
+      "actorId": 7005541527,
+      "actorRole": "VVIP",
+      "action": "TOKEN_ADD",
       "detail": {
-        "value": 7005541527
+        "value": "839***w0Q"
       }
     }
   ]

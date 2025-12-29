@@ -170,6 +170,15 @@
       "detail": {
         "value": "785***ed4"
       }
+    },
+    {
+      "ts": "2025-12-29T04:55:42.141Z",
+      "actorId": 8312642540,
+      "actorRole": "TK",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "776***kVw"
+      }
     }
   ]
 }

@@ -161,6 +161,15 @@
       "detail": {
         "value": "820***ReY"
       }
+    },
+    {
+      "ts": "2025-12-29T03:25:12.762Z",
+      "actorId": 7931956343,
+      "actorRole": "DEVELOPER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "785***ed4"
+      }
     }
   ]
 }

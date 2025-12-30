@@ -217,12 +217,12 @@
       }
     },
     {
-      "ts": "2025-12-30T13:08:41.282Z",
-      "actorId": 7667145353,
-      "actorRole": "PT",
+      "ts": "2025-12-30T13:09:09.434Z",
+      "actorId": 7756361660,
+      "actorRole": "RESELLER",
       "action": "TOKEN_ADD",
       "detail": {
-        "value": "828***149"
+        "value": "775***660"
       }
     }
   ]

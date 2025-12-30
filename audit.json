@@ -217,12 +217,12 @@
       }
     },
     {
-      "ts": "2025-12-30T13:09:09.434Z",
-      "actorId": 7756361660,
-      "actorRole": "RESELLER",
+      "ts": "2025-12-30T13:09:58.760Z",
+      "actorId": 8312642540,
+      "actorRole": "TK",
       "action": "TOKEN_ADD",
       "detail": {
-        "value": "775***660"
+        "value": "bot id"
       }
     }
   ]

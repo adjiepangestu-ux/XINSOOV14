@@ -197,6 +197,15 @@
       "detail": {
         "value": "835***0AI"
       }
+    },
+    {
+      "ts": "2025-12-30T00:41:55.947Z",
+      "actorId": 7756361660,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "828***QiM"
+      }
     }
   ]
 }

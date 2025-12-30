@@ -190,12 +190,12 @@
       }
     },
     {
-      "ts": "2025-12-30T00:19:49.679Z",
+      "ts": "2025-12-30T00:20:33.250Z",
       "actorId": 7756361660,
       "actorRole": "RESELLER",
-      "action": "TOKEN_DEL",
+      "action": "TOKEN_ADD",
       "detail": {
-        "value": "835***i0E"
+        "value": "835***0AI"
       }
     }
   ]

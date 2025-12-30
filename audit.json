@@ -188,6 +188,15 @@
       "detail": {
         "value": "835***i0E"
       }
+    },
+    {
+      "ts": "2025-12-30T00:19:49.679Z",
+      "actorId": 7756361660,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_DEL",
+      "detail": {
+        "value": "835***i0E"
+      }
     }
   ]
 }

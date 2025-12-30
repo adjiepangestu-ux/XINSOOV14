@@ -215,6 +215,15 @@
       "detail": {
         "value": "859***ySc"
       }
+    },
+    {
+      "ts": "2025-12-30T13:08:41.282Z",
+      "actorId": 7667145353,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "828***149"
+      }
     }
   ]
 }

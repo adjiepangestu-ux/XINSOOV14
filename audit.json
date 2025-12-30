@@ -181,12 +181,12 @@
       }
     },
     {
-      "ts": "2025-12-30T00:09:33.689Z",
-      "actorId": 7931956343,
-      "actorRole": "DEVELOPER",
-      "action": "RESS_ADD",
+      "ts": "2025-12-30T00:09:58.224Z",
+      "actorId": 7756361660,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
       "detail": {
-        "value": 7756361660
+        "value": "835***i0E"
       }
     }
   ]

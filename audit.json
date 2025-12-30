@@ -217,12 +217,12 @@
       }
     },
     {
-      "ts": "2025-12-30T13:09:58.760Z",
-      "actorId": 8312642540,
-      "actorRole": "TK",
+      "ts": "2025-12-30T13:11:59.233Z",
+      "actorId": 7667145353,
+      "actorRole": "PT",
       "action": "TOKEN_ADD",
       "detail": {
-        "value": "bot id"
+        "value": "828***aPo"
       }
     }
   ]

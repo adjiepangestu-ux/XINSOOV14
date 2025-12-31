@@ -242,6 +242,15 @@
       "detail": {
         "value": "776***bIY"
       }
+    },
+    {
+      "ts": "2025-12-31T13:38:28.358Z",
+      "actorId": 8312642540,
+      "actorRole": "TK",
+      "action": "TOKEN_DEL",
+      "detail": {
+        "value": "776***bIY"
+      }
     }
   ]
 }

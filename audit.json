@@ -244,10 +244,10 @@
       }
     },
     {
-      "ts": "2025-12-31T13:40:00.851Z",
+      "ts": "2025-12-31T13:40:11.690Z",
       "actorId": 8312642540,
       "actorRole": "TK",
-      "action": "TOKEN_DEL",
+      "action": "TOKEN_ADD",
       "detail": {
         "value": "826***L5M"
       }

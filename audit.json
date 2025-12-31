@@ -233,6 +233,15 @@
       "detail": {
         "value": "857***rL4"
       }
+    },
+    {
+      "ts": "2025-12-31T13:27:10.716Z",
+      "actorId": 8312642540,
+      "actorRole": "TK",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "776***bIY"
+      }
     }
   ]
 }

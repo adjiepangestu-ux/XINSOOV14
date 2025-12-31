@@ -251,6 +251,15 @@
       "detail": {
         "value": "826***L5M"
       }
+    },
+    {
+      "ts": "2025-12-31T15:49:23.997Z",
+      "actorId": 8312642540,
+      "actorRole": "TK",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "858***ahU"
+      }
     }
   ]
 }

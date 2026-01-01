@@ -269,6 +269,15 @@
       "detail": {
         "value": "848***SMw"
       }
+    },
+    {
+      "ts": "2026-01-01T13:51:07.502Z",
+      "actorId": 5513415557,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "714***XGw"
+      }
     }
   ]
 }

@@ -278,6 +278,15 @@
       "detail": {
         "value": "714***XGw"
       }
+    },
+    {
+      "ts": "2026-01-02T11:50:31.016Z",
+      "actorId": 7917791920,
+      "actorRole": "TK",
+      "action": "RESS_ADD",
+      "detail": {
+        "value": 7406337254
+      }
     }
   ]
 }

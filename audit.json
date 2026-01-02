@@ -296,6 +296,15 @@
       "detail": {
         "value": "831***kAc"
       }
+    },
+    {
+      "ts": "2026-01-02T19:57:08.967Z",
+      "actorId": 6241251242,
+      "actorRole": "TK",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "785***S3A"
+      }
     }
   ]
 }

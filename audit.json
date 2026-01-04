@@ -305,6 +305,15 @@
       "detail": {
         "value": "785***S3A"
       }
+    },
+    {
+      "ts": "2026-01-04T03:20:19.399Z",
+      "actorId": 7669479762,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "844***xd0"
+      }
     }
   ]
 }

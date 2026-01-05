@@ -323,6 +323,15 @@
       "detail": {
         "value": "807***DUA"
       }
+    },
+    {
+      "ts": "2026-01-05T09:30:42.646Z",
+      "actorId": 7005541527,
+      "actorRole": "VVIP",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "822***olA"
+      }
     }
   ]
 }

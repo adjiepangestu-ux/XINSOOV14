@@ -359,6 +359,15 @@
       "detail": {
         "value": "757***NDk"
       }
+    },
+    {
+      "ts": "2026-01-06T10:43:09.851Z",
+      "actorId": 7931956343,
+      "actorRole": "DEVELOPER",
+      "action": "RESS_ADD",
+      "detail": {
+        "value": 7207078048
+      }
     }
   ]
 }

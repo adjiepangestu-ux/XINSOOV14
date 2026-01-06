@@ -368,6 +368,15 @@
       "detail": {
         "value": 7207078048
       }
+    },
+    {
+      "ts": "2026-01-06T16:41:54.584Z",
+      "actorId": 7207078048,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "<79***KI>"
+      }
     }
   ]
 }

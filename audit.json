@@ -350,6 +350,15 @@
       "detail": {
         "value": "836***o6c"
       }
+    },
+    {
+      "ts": "2026-01-06T06:51:44.585Z",
+      "actorId": 7931956343,
+      "actorRole": "DEVELOPER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "757***NDk"
+      }
     }
   ]
 }

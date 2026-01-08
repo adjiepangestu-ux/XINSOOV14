@@ -404,6 +404,15 @@
       "detail": {
         "value": "797***IKI"
       }
+    },
+    {
+      "ts": "2026-01-08T12:03:44.615Z",
+      "actorId": 7005541527,
+      "actorRole": "VVIP",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "848***XUQ"
+      }
     }
   ]
 }

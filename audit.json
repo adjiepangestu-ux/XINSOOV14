@@ -431,6 +431,15 @@
       "detail": {
         "value": "857***0m8"
       }
+    },
+    {
+      "ts": "2026-01-10T08:30:13.835Z",
+      "actorId": 6241251242,
+      "actorRole": "TK",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "826***Pu0"
+      }
     }
   ]
 }

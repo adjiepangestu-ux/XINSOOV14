@@ -550,12 +550,12 @@
       }
     },
     {
-      "ts": "2026-01-16T08:47:05.217Z",
+      "ts": "2026-01-16T08:47:29.493Z",
       "actorId": 5513415557,
       "actorRole": "RESELLER",
       "action": "TOKEN_ADD",
       "detail": {
-        "value": "714***XGw"
+        "value": "744***Qzw"
       }
     }
   ]

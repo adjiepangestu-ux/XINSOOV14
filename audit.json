@@ -539,6 +539,15 @@
       "detail": {
         "value": "843***Pmw"
       }
+    },
+    {
+      "ts": "2026-01-16T08:21:27.578Z",
+      "actorId": 7669479762,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "857***0m8"
+      }
     }
   ]
 }

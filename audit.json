@@ -611,6 +611,15 @@
       "detail": {
         "value": "840***0gA"
       }
+    },
+    {
+      "ts": "2026-01-16T17:58:47.687Z",
+      "actorId": 7669479762,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "807***O3M"
+      }
     }
   ]
 }

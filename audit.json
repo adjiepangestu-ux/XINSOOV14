@@ -458,6 +458,15 @@
       "detail": {
         "value": "859***cE0"
       }
+    },
+    {
+      "ts": "2026-01-16T02:23:26.930Z",
+      "actorId": 7931956343,
+      "actorRole": "DEVELOPER",
+      "action": "PT_ADD",
+      "detail": {
+        "value": 6524709648
+      }
     }
   ]
 }

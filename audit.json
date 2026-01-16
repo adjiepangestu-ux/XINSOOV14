@@ -460,12 +460,12 @@
       }
     },
     {
-      "ts": "2026-01-16T02:23:30.377Z",
+      "ts": "2026-01-16T02:27:45.600Z",
       "actorId": 7931956343,
       "actorRole": "DEVELOPER",
-      "action": "VVIP_ADD",
+      "action": "TOKEN_ADD",
       "detail": {
-        "value": 7917791920
+        "value": "845***oTc"
       }
     }
   ]

@@ -584,6 +584,15 @@
       "detail": {
         "value": "832***NaM"
       }
+    },
+    {
+      "ts": "2026-01-16T15:04:07.384Z",
+      "actorId": 7594819587,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "804***w08"
+      }
     }
   ]
 }

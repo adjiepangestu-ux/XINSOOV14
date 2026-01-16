@@ -512,6 +512,15 @@
       "detail": {
         "value": "832***NaM"
       }
+    },
+    {
+      "ts": "2026-01-16T05:59:17.516Z",
+      "actorId": 6241251242,
+      "actorRole": "TK",
+      "action": "TOKEN_DEL",
+      "detail": {
+        "value": "832***NaM"
+      }
     }
   ]
 }

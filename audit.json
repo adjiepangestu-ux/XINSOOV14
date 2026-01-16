@@ -485,6 +485,15 @@
       "detail": {
         "value": "849***ryk"
       }
+    },
+    {
+      "ts": "2026-01-16T03:18:18.442Z",
+      "actorId": 7830484677,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "782***BNw"
+      }
     }
   ]
 }

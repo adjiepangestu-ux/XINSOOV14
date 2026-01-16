@@ -521,6 +521,15 @@
       "detail": {
         "value": "832***NaM"
       }
+    },
+    {
+      "ts": "2026-01-16T06:11:36.832Z",
+      "actorId": 7931956343,
+      "actorRole": "DEVELOPER",
+      "action": "GROUPONLY_SET",
+      "detail": {
+        "enabled": true
+      }
     }
   ]
 }

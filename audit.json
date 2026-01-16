@@ -478,12 +478,12 @@
       }
     },
     {
-      "ts": "2026-01-16T03:01:01.147Z",
-      "actorId": 7669479762,
-      "actorRole": "RESELLER",
+      "ts": "2026-01-16T03:05:20.259Z",
+      "actorId": 7830484677,
+      "actorRole": "PT",
       "action": "TOKEN_ADD",
       "detail": {
-        "value": "822***iuQ"
+        "value": "849***ryk"
       }
     }
   ]

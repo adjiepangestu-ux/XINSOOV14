@@ -674,6 +674,15 @@
       "detail": {
         "value": "715***ugg"
       }
+    },
+    {
+      "ts": "2026-01-17T14:58:28.046Z",
+      "actorId": 6532518546,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "825***lAU"
+      }
     }
   ]
 }

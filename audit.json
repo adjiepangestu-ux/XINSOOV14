@@ -640,12 +640,12 @@
       }
     },
     {
-      "ts": "2026-01-17T05:43:47.561Z",
-      "actorId": 7931956343,
-      "actorRole": "DEVELOPER",
-      "action": "TOKEN_ADD",
+      "ts": "2026-01-17T05:45:37.531Z",
+      "actorId": 7917791920,
+      "actorRole": "TK",
+      "action": "PT_ADD",
       "detail": {
-        "value": "859***Npc"
+        "value": 5323531153
       }
     }
   ]

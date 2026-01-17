@@ -638,6 +638,15 @@
       "detail": {
         "value": "842***9AA"
       }
+    },
+    {
+      "ts": "2026-01-17T05:43:47.561Z",
+      "actorId": 7931956343,
+      "actorRole": "DEVELOPER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "859***Npc"
+      }
     }
   ]
 }

@@ -676,12 +676,12 @@
       }
     },
     {
-      "ts": "2026-01-17T14:58:28.046Z",
+      "ts": "2026-01-17T15:02:41.038Z",
       "actorId": 6532518546,
       "actorRole": "PT",
       "action": "TOKEN_ADD",
       "detail": {
-        "value": "825***lAU"
+        "value": "849***Gx0"
       }
     }
   ]

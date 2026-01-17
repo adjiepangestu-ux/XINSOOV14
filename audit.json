@@ -665,6 +665,15 @@
       "detail": {
         "value": "835***L7Q"
       }
+    },
+    {
+      "ts": "2026-01-17T12:33:30.001Z",
+      "actorId": 7917791920,
+      "actorRole": "TK",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "715***ugg"
+      }
     }
   ]
 }

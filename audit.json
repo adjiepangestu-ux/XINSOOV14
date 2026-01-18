@@ -692,6 +692,15 @@
       "detail": {
         "value": "831***EZU"
       }
+    },
+    {
+      "ts": "2026-01-18T07:48:57.478Z",
+      "actorId": 7917791920,
+      "actorRole": "TK",
+      "action": "RESS_ADD",
+      "detail": {
+        "value": 8086202215
+      }
     }
   ]
 }

@@ -701,6 +701,15 @@
       "detail": {
         "value": 8086202215
       }
+    },
+    {
+      "ts": "2026-01-18T15:53:34.453Z",
+      "actorId": 7917791920,
+      "actorRole": "TK",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "715***0Nw"
+      }
     }
   ]
 }

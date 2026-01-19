@@ -755,6 +755,15 @@
       "detail": {
         "value": "853***zto"
       }
+    },
+    {
+      "ts": "2026-01-19T13:57:41.383Z",
+      "actorId": 7766775224,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "858***JRg"
+      }
     }
   ]
 }

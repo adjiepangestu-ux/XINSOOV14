@@ -764,6 +764,15 @@
       "detail": {
         "value": "858***JRg"
       }
+    },
+    {
+      "ts": "2026-01-20T00:41:11.686Z",
+      "actorId": 7931956343,
+      "actorRole": "DEVELOPER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "820***Ywo"
+      }
     }
   ]
 }

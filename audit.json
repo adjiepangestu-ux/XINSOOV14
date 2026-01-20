@@ -791,6 +791,15 @@
       "detail": {
         "value": "715***sig"
       }
+    },
+    {
+      "ts": "2026-01-20T13:46:14.840Z",
+      "actorId": 7917791920,
+      "actorRole": "TK",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "849***kwI"
+      }
     }
   ]
 }

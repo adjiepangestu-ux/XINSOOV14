@@ -800,6 +800,15 @@
       "detail": {
         "value": "849***kwI"
       }
+    },
+    {
+      "ts": "2026-01-21T11:56:06.523Z",
+      "actorId": 7669479762,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "831***-aM"
+      }
     }
   ]
 }

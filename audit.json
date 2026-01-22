@@ -809,6 +809,15 @@
       "detail": {
         "value": "831***-aM"
       }
+    },
+    {
+      "ts": "2026-01-22T16:05:31.590Z",
+      "actorId": 7667145353,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "824***YLI"
+      }
     }
   ]
 }

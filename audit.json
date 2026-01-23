@@ -818,6 +818,15 @@
       "detail": {
         "value": "824***YLI"
       }
+    },
+    {
+      "ts": "2026-01-23T16:18:03.607Z",
+      "actorId": 7667145353,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "833***cVc"
+      }
     }
   ]
 }

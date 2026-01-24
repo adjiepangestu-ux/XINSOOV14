@@ -872,6 +872,15 @@
       "detail": {
         "value": "721***bxY"
       }
+    },
+    {
+      "ts": "2026-01-24T15:36:26.144Z",
+      "actorId": 7667145353,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "857***7t8"
+      }
     }
   ]
 }

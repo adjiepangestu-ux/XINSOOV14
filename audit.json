@@ -890,6 +890,15 @@
       "detail": {
         "value": "853***kkI"
       }
+    },
+    {
+      "ts": "2026-01-24T21:41:44.595Z",
+      "actorId": 7667145353,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "820***qdo"
+      }
     }
   ]
 }

@@ -854,6 +854,15 @@
       "detail": {
         "value": "853***TrA"
       }
+    },
+    {
+      "ts": "2026-01-24T12:16:42.268Z",
+      "actorId": 7667145353,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "853***l1M"
+      }
     }
   ]
 }

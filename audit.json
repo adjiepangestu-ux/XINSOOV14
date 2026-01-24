@@ -847,12 +847,12 @@
       }
     },
     {
-      "ts": "2026-01-24T12:08:33.233Z",
+      "ts": "2026-01-24T12:08:56.949Z",
       "actorId": 7931956343,
       "actorRole": "DEVELOPER",
       "action": "TOKEN_ADD",
       "detail": {
-        "value": "853***TrA"
+        "value": "842***NHk"
       }
     }
   ]

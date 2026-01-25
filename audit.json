@@ -926,6 +926,15 @@
       "detail": {
         "value": "858***wGM"
       }
+    },
+    {
+      "ts": "2026-01-25T07:53:40.622Z",
+      "actorId": 8086202215,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "851***kwg"
+      }
     }
   ]
 }

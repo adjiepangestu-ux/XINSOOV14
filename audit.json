@@ -935,6 +935,15 @@
       "detail": {
         "value": "851***kwg"
       }
+    },
+    {
+      "ts": "2026-01-25T14:02:22.451Z",
+      "actorId": 7667145353,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "831***ycw"
+      }
     }
   ]
 }

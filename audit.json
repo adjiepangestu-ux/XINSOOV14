@@ -944,6 +944,15 @@
       "detail": {
         "value": "831***ycw"
       }
+    },
+    {
+      "ts": "2026-01-27T07:04:09.286Z",
+      "actorId": 7207078048,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "841***1mw"
+      }
     }
   ]
 }

@@ -971,6 +971,15 @@
       "detail": {
         "value": "858***ivo"
       }
+    },
+    {
+      "ts": "2026-01-30T15:23:44.161Z",
+      "actorId": 8086202215,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "858***lfU"
+      }
     }
   ]
 }

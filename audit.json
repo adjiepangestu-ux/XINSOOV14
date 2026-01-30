@@ -980,6 +980,15 @@
       "detail": {
         "value": "858***lfU"
       }
+    },
+    {
+      "ts": "2026-01-30T20:04:34.093Z",
+      "actorId": 7667145353,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "856***5uc"
+      }
     }
   ]
 }

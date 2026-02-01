@@ -1043,6 +1043,15 @@
       "detail": {
         "value": "788***g4U"
       }
+    },
+    {
+      "ts": "2026-02-01T19:20:41.528Z",
+      "actorId": 8086202215,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_DEL",
+      "detail": {
+        "value": "788***g4U"
+      }
     }
   ]
 }

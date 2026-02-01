@@ -1007,6 +1007,15 @@
       "detail": {
         "value": "854***Llg"
       }
+    },
+    {
+      "ts": "2026-02-01T14:30:02.742Z",
+      "actorId": 7667145353,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "828***ScU"
+      }
     }
   ]
 }

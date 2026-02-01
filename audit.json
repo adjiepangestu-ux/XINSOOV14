@@ -1034,6 +1034,15 @@
       "detail": {
         "value": "844***JFs"
       }
+    },
+    {
+      "ts": "2026-02-01T18:48:59.429Z",
+      "actorId": 8086202215,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "788***g4U"
+      }
     }
   ]
 }

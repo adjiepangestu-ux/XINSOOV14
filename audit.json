@@ -1025,6 +1025,15 @@
       "detail": {
         "value": "822***eok"
       }
+    },
+    {
+      "ts": "2026-02-01T18:00:40.819Z",
+      "actorId": 7667145353,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "844***JFs"
+      }
     }
   ]
 }

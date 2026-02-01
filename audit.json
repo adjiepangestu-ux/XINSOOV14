@@ -998,6 +998,15 @@
       "detail": {
         "value": "810***yNI"
       }
+    },
+    {
+      "ts": "2026-02-01T07:39:52.988Z",
+      "actorId": 7669479762,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "854***Llg"
+      }
     }
   ]
 }

@@ -1061,6 +1061,15 @@
       "detail": {
         "value": "796***H4k"
       }
+    },
+    {
+      "ts": "2026-02-02T10:41:44.028Z",
+      "actorId": 8086202215,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "839***QPs"
+      }
     }
   ]
 }

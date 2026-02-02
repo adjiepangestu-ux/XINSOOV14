@@ -1070,6 +1070,15 @@
       "detail": {
         "value": "839***QPs"
       }
+    },
+    {
+      "ts": "2026-02-02T20:22:27.337Z",
+      "actorId": 7667145353,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "810***xOs"
+      }
     }
   ]
 }

@@ -1079,6 +1079,15 @@
       "detail": {
         "value": "810***xOs"
       }
+    },
+    {
+      "ts": "2026-02-03T13:09:29.265Z",
+      "actorId": 7594819587,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "821***_98"
+      }
     }
   ]
 }

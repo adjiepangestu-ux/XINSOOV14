@@ -1088,6 +1088,15 @@
       "detail": {
         "value": "821***_98"
       }
+    },
+    {
+      "ts": "2026-02-03T19:32:45.657Z",
+      "actorId": 8086202215,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "849***Xms"
+      }
     }
   ]
 }

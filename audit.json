@@ -1097,6 +1097,15 @@
       "detail": {
         "value": "849***Xms"
       }
+    },
+    {
+      "ts": "2026-02-04T18:38:42.714Z",
+      "actorId": 7667145353,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "826***yrk"
+      }
     }
   ]
 }

@@ -1106,6 +1106,15 @@
       "detail": {
         "value": "826***yrk"
       }
+    },
+    {
+      "ts": "2026-02-04T21:26:43.349Z",
+      "actorId": 7667145353,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "You*** 😄"
+      }
     }
   ]
 }

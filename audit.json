@@ -1216,12 +1216,12 @@
       }
     },
     {
-      "ts": "2026-02-12T22:23:12.627Z",
-      "actorId": 6241251242,
-      "actorRole": "TK",
-      "action": "TOKEN_ADD",
+      "ts": "2026-02-12T22:25:34.923Z",
+      "actorId": 7667145353,
+      "actorRole": "PT",
+      "action": "TOKEN_DEL",
       "detail": {
-        "value": "853***zto"
+        "value": "850***qA8"
       }
     }
   ]

@@ -1205,6 +1205,15 @@
       "detail": {
         "value": "782***BNw"
       }
+    },
+    {
+      "ts": "2026-02-12T20:31:26.102Z",
+      "actorId": 7667145353,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "850***qA8"
+      }
     }
   ]
 }

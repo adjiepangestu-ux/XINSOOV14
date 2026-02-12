@@ -1142,6 +1142,15 @@
       "detail": {
         "value": "806***CR8"
       }
+    },
+    {
+      "ts": "2026-02-12T04:20:14.790Z",
+      "actorId": 5513415557,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "714***XGw"
+      }
     }
   ]
 }

@@ -1151,6 +1151,15 @@
       "detail": {
         "value": "714***XGw"
       }
+    },
+    {
+      "ts": "2026-02-12T04:43:05.045Z",
+      "actorId": 6241251242,
+      "actorRole": "TK",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "832***NaM"
+      }
     }
   ]
 }

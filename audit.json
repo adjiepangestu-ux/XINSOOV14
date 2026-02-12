@@ -1169,6 +1169,15 @@
       "detail": {
         "value": "715***ZDI"
       }
+    },
+    {
+      "ts": "2026-02-12T08:06:33.274Z",
+      "actorId": 7667145353,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "841***8A4"
+      }
     }
   ]
 }

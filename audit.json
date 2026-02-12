@@ -1162,12 +1162,12 @@
       }
     },
     {
-      "ts": "2026-02-12T06:30:51.862Z",
-      "actorId": 7669479762,
-      "actorRole": "RESELLER",
+      "ts": "2026-02-12T06:34:23.978Z",
+      "actorId": 7917791920,
+      "actorRole": "TK",
       "action": "TOKEN_ADD",
       "detail": {
-        "value": "822***iuQ"
+        "value": "715***ZDI"
       }
     }
   ]

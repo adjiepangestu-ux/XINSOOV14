@@ -1277,6 +1277,15 @@
       "detail": {
         "value": "822***hBg"
       }
+    },
+    {
+      "ts": "2026-02-15T08:50:18.275Z",
+      "actorId": 8086202215,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "89d***099"
+      }
     }
   ]
 }

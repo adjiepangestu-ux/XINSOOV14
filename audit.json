@@ -1322,6 +1322,15 @@
       "detail": {
         "value": "847***SiE"
       }
+    },
+    {
+      "ts": "2026-02-16T05:40:18.039Z",
+      "actorId": 8086202215,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "821***6Ks"
+      }
     }
   ]
 }

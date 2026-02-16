@@ -1313,6 +1313,15 @@
       "detail": {
         "value": "856***97w"
       }
+    },
+    {
+      "ts": "2026-02-16T00:47:16.470Z",
+      "actorId": 7667145353,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "847***SiE"
+      }
     }
   ]
 }

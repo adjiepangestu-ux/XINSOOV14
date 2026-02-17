@@ -1493,6 +1493,15 @@
       "detail": {
         "value": "756***kRg"
       }
+    },
+    {
+      "ts": "2026-02-17T22:50:18.485Z",
+      "actorId": 6532518546,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "821***7kU"
+      }
     }
   ]
 }

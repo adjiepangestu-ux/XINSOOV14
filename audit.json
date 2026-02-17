@@ -1403,6 +1403,15 @@
       "detail": {
         "value": "782***q7Q"
       }
+    },
+    {
+      "ts": "2026-02-17T06:57:18.707Z",
+      "actorId": 7669479762,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "833***QKs"
+      }
     }
   ]
 }

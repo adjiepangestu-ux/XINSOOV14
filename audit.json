@@ -1349,6 +1349,15 @@
       "detail": {
         "value": "822***BH8"
       }
+    },
+    {
+      "ts": "2026-02-17T01:38:06.270Z",
+      "actorId": 7766775224,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_DEL",
+      "detail": {
+        "value": "858***JRg"
+      }
     }
   ]
 }

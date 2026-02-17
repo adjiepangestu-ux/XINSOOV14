@@ -1430,6 +1430,15 @@
       "detail": {
         "value": "809***OuU"
       }
+    },
+    {
+      "ts": "2026-02-17T12:49:28.162Z",
+      "actorId": 5513415557,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "714***XGw"
+      }
     }
   ]
 }

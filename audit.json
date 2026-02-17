@@ -1502,6 +1502,15 @@
       "detail": {
         "value": "821***7kU"
       }
+    },
+    {
+      "ts": "2026-02-17T23:48:32.814Z",
+      "actorId": 7766775224,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "802***WEI"
+      }
     }
   ]
 }

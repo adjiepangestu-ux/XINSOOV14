@@ -1439,6 +1439,15 @@
       "detail": {
         "value": "714***MHY"
       }
+    },
+    {
+      "ts": "2026-02-17T14:49:48.107Z",
+      "actorId": 7207078048,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "841***g_0"
+      }
     }
   ]
 }

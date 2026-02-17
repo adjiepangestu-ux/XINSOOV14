@@ -1421,6 +1421,15 @@
       "detail": {
         "value": "809***OuU"
       }
+    },
+    {
+      "ts": "2026-02-17T10:23:56.717Z",
+      "actorId": 7207078048,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_DEL",
+      "detail": {
+        "value": "809***OuU"
+      }
     }
   ]
 }

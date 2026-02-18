@@ -1520,6 +1520,15 @@
       "detail": {
         "value": "844***WiA"
       }
+    },
+    {
+      "ts": "2026-02-18T05:43:35.562Z",
+      "actorId": 6532518546,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "845***E5A"
+      }
     }
   ]
 }

@@ -1511,6 +1511,15 @@
       "detail": {
         "value": "802***WEI"
       }
+    },
+    {
+      "ts": "2026-02-18T04:35:05.177Z",
+      "actorId": 6241251242,
+      "actorRole": "TK",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "844***WiA"
+      }
     }
   ]
 }

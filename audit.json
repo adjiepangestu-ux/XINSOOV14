@@ -1574,6 +1574,15 @@
       "detail": {
         "value": "852***lbs"
       }
+    },
+    {
+      "ts": "2026-02-19T01:00:29.140Z",
+      "actorId": 8086202215,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "856***u1E"
+      }
     }
   ]
 }

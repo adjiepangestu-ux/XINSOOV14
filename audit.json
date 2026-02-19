@@ -1592,6 +1592,15 @@
       "detail": {
         "value": "744***uIc"
       }
+    },
+    {
+      "ts": "2026-02-19T03:00:24.124Z",
+      "actorId": 5513415557,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "744***QsQ"
+      }
     }
   ]
 }

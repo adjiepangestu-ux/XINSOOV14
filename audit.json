@@ -1583,6 +1583,15 @@
       "detail": {
         "value": "856***u1E"
       }
+    },
+    {
+      "ts": "2026-02-19T02:49:55.026Z",
+      "actorId": 5513415557,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "744***uIc"
+      }
     }
   ]
 }

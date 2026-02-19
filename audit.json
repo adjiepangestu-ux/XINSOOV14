@@ -1601,6 +1601,15 @@
       "detail": {
         "value": "744***QsQ"
       }
+    },
+    {
+      "ts": "2026-02-19T21:37:45.334Z",
+      "actorId": 6532518546,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "844***9to"
+      }
     }
   ]
 }

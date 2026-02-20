@@ -1628,6 +1628,15 @@
       "detail": {
         "value": "715***t4Y"
       }
+    },
+    {
+      "ts": "2026-02-20T13:49:40.179Z",
+      "actorId": 7917791920,
+      "actorRole": "TK",
+      "action": "RESS_ADD",
+      "detail": {
+        "value": 7447330737
+      }
     }
   ]
 }

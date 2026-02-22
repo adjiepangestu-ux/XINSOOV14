@@ -1655,6 +1655,15 @@
       "detail": {
         "value": "807***QuU"
       }
+    },
+    {
+      "ts": "2026-02-22T21:32:39.293Z",
+      "actorId": 7830484677,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "782***lcQ"
+      }
     }
   ]
 }

@@ -1637,6 +1637,15 @@
       "detail": {
         "value": "762***wFs"
       }
+    },
+    {
+      "ts": "2026-02-22T00:33:33.687Z",
+      "actorId": 8086202215,
+      "actorRole": "RESELLER",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "827***DNk"
+      }
     }
   ]
 }

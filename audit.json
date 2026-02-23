@@ -1673,6 +1673,15 @@
       "detail": {
         "value": "859***oJ4"
       }
+    },
+    {
+      "ts": "2026-02-23T13:17:57.201Z",
+      "actorId": 7005541527,
+      "actorRole": "VVIP",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "866***Uug"
+      }
     }
   ]
 }

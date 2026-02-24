@@ -1682,6 +1682,15 @@
       "detail": {
         "value": "866***vM4"
       }
+    },
+    {
+      "ts": "2026-02-24T03:35:49.251Z",
+      "actorId": 6241251242,
+      "actorRole": "TK",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "747***1Hg"
+      }
     }
   ]
 }

@@ -1691,6 +1691,15 @@
       "detail": {
         "value": "747***1Hg"
       }
+    },
+    {
+      "ts": "2026-02-25T04:30:08.293Z",
+      "actorId": 7917791920,
+      "actorRole": "TK",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "849***iBQ"
+      }
     }
   ]
 }

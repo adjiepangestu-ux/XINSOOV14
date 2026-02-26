@@ -1727,6 +1727,15 @@
       "detail": {
         "value": "858***PEQ"
       }
+    },
+    {
+      "ts": "2026-02-26T08:19:08.100Z",
+      "actorId": 6532518546,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "862***630"
+      }
     }
   ]
 }

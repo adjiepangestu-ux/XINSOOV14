@@ -1745,6 +1745,15 @@
       "detail": {
         "enabled": false
       }
+    },
+    {
+      "ts": "2026-02-26T21:03:50.546Z",
+      "actorId": 7667145353,
+      "actorRole": "PT",
+      "action": "TOKEN_ADD",
+      "detail": {
+        "value": "850***jw8"
+      }
     }
   ]
 }

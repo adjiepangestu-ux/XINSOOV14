@@ -1736,6 +1736,15 @@
       "detail": {
         "value": "862***630"
       }
+    },
+    {
+      "ts": "2026-02-26T19:26:56.701Z",
+      "actorId": 5918263890,
+      "actorRole": "DEVELOPER",
+      "action": "GROUPONLY_SET",
+      "detail": {
+        "enabled": false
+      }
     }
   ]
 }
